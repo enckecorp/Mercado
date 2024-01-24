@@ -32,6 +32,8 @@ Uma aplicação focada na organização de despesas alimentícias residenciais. 
 Para executar a aplicação em seu ambiente, além de instalar os requisitos listados acima é necessário criar o banco de dados "mercado" e importar o arquivo "mercado.sql" em sua versão do MariaDB, para ter as tabelas e colunas iniciais para o funcionamento do sistema. Também é necessário configurar as permissões dos diretórios "mercado/modules/compras
 /anexos/" para 775.
 
+Necessário também ajustar suas credenciais no arquivo "link.php" para garantir o acesso ao banco importado em seu MariaDB.
+
 ## Meta
 
 Encke Corporation – [@EnckeCorp](https://twitter.com/enckecorp) – contato@enckecorp.com.br
